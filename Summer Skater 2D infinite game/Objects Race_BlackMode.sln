@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{ACDB7084-D603-4FEE-4BAE-5C45AA279DAF}") = "Objects Race_BlackMode", "Assembly-CSharp.csproj", "{67F68ECC-35C8-42B8-D241-01BF79022954}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67F68ECC-35C8-42B8-D241-01BF79022954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F68ECC-35C8-42B8-D241-01BF79022954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F68ECC-35C8-42B8-D241-01BF79022954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F68ECC-35C8-42B8-D241-01BF79022954}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

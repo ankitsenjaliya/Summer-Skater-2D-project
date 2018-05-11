@@ -1,0 +1,237 @@
+fileFormatVersion: 2
+guid: 01d5bc5603a55c14a942b2598b9535fa
+timeCreated: 1486399484
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Right_Arm_Upper
+    21300002: Left_Arm_Upper
+    21300004: Right_Arm_Lower
+    21300006: Left_Arm_Lower
+    21300008: Head
+    21300010: Body
+    21300012: Right_Leg_Upper
+    21300014: Left_Leg_Upper
+    21300016: Right_Leg_Lower
+    21300018: Left_Leg_Lower
+    21300020: Right_Foot
+    21300022: Left_Foot
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Right_Arm_Upper
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 307
+        width: 34
+        height: 99
+      alignment: 9
+      pivot: {x: 0.6477693, y: 0.80449456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.024155, y: 19.355042}
+        - {x: -22.024155, y: -79.64496}
+        - {x: 11.975845, y: -79.64496}
+        - {x: 11.975845, y: 19.355042}
+    - name: Left_Arm_Upper
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 99
+        width: 38
+        height: 96
+      alignment: 9
+      pivot: {x: 0.66999036, y: 0.84391564}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.459633, y: 14.9841}
+        - {x: -25.459633, y: -81.0159}
+        - {x: 12.540367, y: -81.0159}
+        - {x: 12.540367, y: 14.9841}
+    - name: Right_Arm_Lower
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 229
+        width: 34
+        height: 80
+      alignment: 9
+      pivot: {x: 0.43667024, y: 0.8857838}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.846788, y: 9.137299}
+        - {x: -14.846788, y: -70.8627}
+        - {x: 19.153212, y: -70.8627}
+        - {x: 19.153212, y: 9.137299}
+    - name: Left_Arm_Lower
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 17
+        width: 39
+        height: 82
+      alignment: 9
+      pivot: {x: 0.48159644, y: 0.8851272}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.78226, y: 9.419571}
+        - {x: -18.78226, y: -72.58043}
+        - {x: 20.21774, y: -72.58043}
+        - {x: 20.21774, y: 9.419571}
+    - name: Head
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 235
+        width: 147
+        height: 137
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08612306}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -73.5, y: 125.20114}
+        - {x: -73.5, y: -11.798859}
+        - {x: 73.5, y: -11.798859}
+        - {x: 73.5, y: 125.20114}
+    - name: Body
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 34
+        width: 97
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -48.5, y: 77.5}
+        - {x: -48.5, y: -77.5}
+        - {x: 48.5, y: -77.5}
+        - {x: 48.5, y: 77.5}
+    - name: Right_Leg_Upper
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 105
+        width: 38
+        height: 87
+      alignment: 9
+      pivot: {x: 0.3677854, y: 0.8712432}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.975845, y: 11.201843}
+        - {x: -13.975845, y: -75.79816}
+        - {x: 24.024155, y: -75.79816}
+        - {x: 24.024155, y: 11.201843}
+    - name: Left_Leg_Upper
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 108
+        width: 36
+        height: 84
+      alignment: 9
+      pivot: {x: 0.39878124, y: 0.8670247}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.356125, y: 11.169922}
+        - {x: -14.356125, y: -72.83008}
+        - {x: 21.643875, y: -72.83008}
+        - {x: 21.643875, y: 11.169922}
+    - name: Right_Leg_Lower
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 37
+        width: 28
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left_Leg_Lower
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 38
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 34.5}
+        - {x: -16.5, y: -34.5}
+        - {x: 16.5, y: -34.5}
+        - {x: 16.5, y: 34.5}
+    - name: Right_Foot
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 19
+        width: 40
+        height: 17
+      alignment: 9
+      pivot: {x: 0.35645255, y: 0.6266593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Left_Foot
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 18
+        width: 41
+        height: 19
+      alignment: 9
+      pivot: {x: 0.37745965, y: 0.6133267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
